@@ -50,3 +50,10 @@
     display:block;
     width: auto;
 }
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+}
