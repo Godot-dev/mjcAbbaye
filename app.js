@@ -20,21 +20,12 @@ vm.component('myheader', {
             <li>
                 <a href="#">Pour les enfants</a>
                 <ul class="sous">
-                    <li><a href="#">L'accueil de loisirs</a>
-                        <ul class="sous2">
-                            <li><a href="#">Mercredis</a></li>
-                            <li><a href="#">Les vacances</a></li>
-                            <li><a href="#">Les séjours</a></li>
-                        </ul>
-                    </li>
-                    
+                    <li><a href="#">L'accueil de loisirs</a></li>
+                    <li><a href="#"><pre>   - Mercredis</pre></a></li>
+                    <li><a href="#"><pre>   - Les vacances</pre></a></li>
+                    <li><a href="#"><pre>   - Les séjours</pre></a></li>
                     <li><a href="#">Le périscolaire</a></li>
-                    <li><a href="#">L'accompagnement à la scolarité</a>
-                        <ul class="sous2">
-                            <li><a href="#">A l'année</a></li>
-                            <li><a href="#">Les stages</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="#">L'accompagnement à la scolarité</a></li>
                 </ul>
             </li>
             <li>
@@ -49,19 +40,13 @@ vm.component('myheader', {
             <li>
                 <a href="#">Pour les adultes</a>
                 <ul class="sous">
-                    <li><a href="#">Activités de loisirs</a>
-                        <ul class="sous2">
-                            <li><a href="#">Les ateliers à l'année</a></li>
-                            <li><a href="#">Les stages</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Les ASL (ateliers socio-linguistiques)</a>
-                        <ul class="sous2">
-                            <li><a href="#">Lien base de données</a></li>
-                            <li><a href="#">Livre blanc ASL</a></li>
-                            <li><a href="#">Les réalisations</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="#">Activités de loisirs</a></li>
+                    <li><a href="#"><pre>   - Les ateliers à l'année</pre></a></li>
+                    <li><a href="#"><pre>   - Les stages</pre></a></li>
+                    <li><a href="#">Les ASL (ateliers socio-linguistiques)</a></li>
+                    <li><a href="#"><pre>   - Lien base de données</pre></a></li>
+                    <li><a href="#"><pre>   - Livre blanc ASL</pre></a></li>
+                    <li><a href="#"><pre>   - Les réalisations</pre></a></li>
                 </ul>
             </li>
             <li>
