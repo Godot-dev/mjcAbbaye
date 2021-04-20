@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="headerFooter.css">
+    <link rel="stylesheet" href="accueil.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
    crossorigin=""/>
@@ -13,10 +14,20 @@
 <body>
     <div id="app">
         <myheader></myheader>
-        
-
+        <div class="slider">
+            <div class="slides">
+                <div class="slide"><img src="data/img/flash-info-1.jpg" alt=""></div>
+                <div class="slide"><img src="data/img/flash-info-2.jpg" alt=""></div>
+                <div class="slide"><img src="data/img/flash-info-3.jpg" alt=""></div>
+            </div>
+        </div>
     </div>
-    <div id="map"></div> <style>#map{height: 400px; margin : 200px;}</style>
+    <div id="acces">
+        <h2>Plan d'accès</h2>
+        <div id="map"></div>
+        <p>Arrêts de bus : 12 Jeanne d'arc, C5 Saint-Augustin</p>
+    </div>
+    
         <footer>
             <div>
                 <h2>Contact</h2>
@@ -25,6 +36,8 @@
             </div>
             <div>
                 <h2>Suivez nous</h2>
+                <p><img src="data/img/logo-facebook.png" alt="logo-facebook"></p>
+                <p><img src="data/img/logo-instagram.png" alt="logo-instagram"></p>
             </div>
         </footer>
     
@@ -32,7 +45,7 @@
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
    crossorigin=""></script>
-   <script src="map.js"></script>
+    <script src="map.js"></script>
     <script src="https://unpkg.com/vue@next"></script>
     <script src="app.js"></script>
 </body>

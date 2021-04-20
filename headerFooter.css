@@ -1,3 +1,8 @@
+
+header, footer{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #menu {
     display: flex;
     flex-wrap: wrap;
@@ -17,7 +22,7 @@
 
 #menu ul {
     position: absolute;
-    background-color: black;
+    background-color:antiquewhite;
 }
 
 #menu pre{
@@ -28,7 +33,6 @@
     display:block;
     text-decoration:none;
     font-size: large;
-    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     color:#2397bc;
 }
@@ -39,6 +43,7 @@
     
 .sous{
     display:none;
+    z-index: 2;
 }
 
 #menu li ul a {
@@ -55,5 +60,6 @@ footer {
     display: flex;
     justify-content: space-around;
     color: white;
-    background-color: black;
+    background-color:darkslategrey;
+    font-size:small;
 }
