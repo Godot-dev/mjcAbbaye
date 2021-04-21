@@ -1,17 +1,27 @@
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px 0;
+}
+
 #map{
-    height: 400px;
-    margin: 0 30px;
+    height: 300px;
+    width: 500px;
 }
 
 #acces{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    height: 300px;
+    width: 500px;
 }
 
 .slider {
     width: 500px;
     overflow: hidden;
-    margin: auto;
 }
 
 .slides{
