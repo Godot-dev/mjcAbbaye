@@ -93,5 +93,25 @@ vm.component('myheader', {
 </header>
     `
 })
+
+vm.component('myfooter', {
+    props: ['content'],
+    template: `
+    <footer>
+        <div>
+            <h2>Contact</h2>
+            <p>1 place de la commune de 1871,<br>38100 Grenoble</p>
+            <p>Nous appeler :<br> 04 76 51 12 51</p>
+        </div>
+        <div>
+            <h2>Suivez nous</h2>
+            <p><img src="data/img/logo-facebook.png" alt="logo-facebook"></p>
+            <p><img src="data/img/logo-instagram.png" alt="logo-instagram"></p>
+        </div>
+    </footer>
+    `
+})
+
+
     
 vm.mount('#app');
