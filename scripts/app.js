@@ -15,7 +15,7 @@ vm.component('myheader', {
     <nav>
         <ul id="menu">
             <li>
-                <a href="#">Accueil</a>
+                <a href="index.html">Accueil</a>
             </li>
             <li>
                 <a href="#">Pour les enfants</a>
@@ -29,7 +29,7 @@ vm.component('myheader', {
                 </ul>
             </li>
             <li>
-                <a href="#">Pour les jeunes</a>
+                <a href="pourJeunes.html">Pour les jeunes</a>
                 <ul class="sous">
                     <li><a href="#">Les 11-13 ans</a></li>
                     <li><a href="#">Les 14-17 ans</a></li>
@@ -38,7 +38,7 @@ vm.component('myheader', {
                 </ul>
             </li>
             <li>
-                <a href="#">Pour les adultes</a>
+                <a href="pourAdultes.html">Pour les adultes</a>
                 <ul class="sous">
                     <li><a href="#">Activités de loisirs</a></li>
                     <li><a href="#"><pre>   - Les ateliers à l'année</pre></a></li>
@@ -50,7 +50,7 @@ vm.component('myheader', {
                 </ul>
             </li>
             <li>
-                <a href="#">Les séjours</a>
+                <a href="sejours.html">Les séjours</a>
                 <ul class="sous">
                     <li><a href="#">Vacances d'hiver</a></li>
                     <li><a href="#">Vacances d'été</a></li>
@@ -72,11 +72,11 @@ vm.component('myheader', {
                 </ul>
             </li>
             <li>
-                <a href="#">La vie du quartier</a>
+                <a href="vieDuQuartier.html">La vie du quartier</a>
                 <ul class="sous">
                     <li><a href="#">L'urbanisme transitoire : les volets verts</a></li>
                     <li><a href="#">La Maison des Habitants abbaye</a></li>
-                    <li><a href="#">Les assiocations et partenaires du quartier</a></li>
+                    <li><a href="#">Les associations et partenaires du quartier</a></li>
                     <li><a href="#">Les événements</a></li>
                 </ul>
             </li>
@@ -99,14 +99,23 @@ vm.component('myfooter', {
     template: `
     <footer>
         <div>
+            <p><img src="data/img/logo1.png" alt="logoMJC1"></p>
+        </div>
+        <div>
             <h2>Contact</h2>
             <p>1 place de la commune de 1871,<br>38100 Grenoble</p>
             <p>Nous appeler :<br> 04 76 51 12 51</p>
         </div>
         <div>
+            <p><img src="data/img/logo1.png" alt="logoMJC1"></p>
+        </div>
+        <div>
             <h2>Suivez nous</h2>
             <p><img src="data/img/logo-facebook.png" alt="logo-facebook"></p>
             <p><img src="data/img/logo-instagram.png" alt="logo-instagram"></p>
+        </div>
+        <div>
+            <p><img src="data/img/logo1.png" alt="logoMJC1"></p>
         </div>
     </footer>
     `

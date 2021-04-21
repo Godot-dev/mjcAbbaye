@@ -59,6 +59,8 @@ header, footer{
 footer {
     display: flex;
     justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
     color: white;
     background-color:darkslategrey;
     font-size:small;
