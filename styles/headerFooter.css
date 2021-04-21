@@ -65,3 +65,11 @@ footer {
     background-color:darkslategrey;
     font-size:small;
 }
+
+footer article {
+    display: flex;
+}
+
+footer article p{
+    margin:0 10px ;
+}

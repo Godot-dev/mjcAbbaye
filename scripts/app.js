@@ -1,5 +1,3 @@
-
-
 const vm = Vue.createApp({
     data(){
         return{
@@ -18,7 +16,7 @@ vm.component('myheader', {
                 <a href="index.html">Accueil</a>
             </li>
             <li>
-                <a href="#">Pour les enfants</a>
+                <a href="pourEnfants.html">Pour les enfants</a>
                 <ul class="sous">
                     <li><a href="#">L'accueil de loisirs</a></li>
                     <li><a href="#"><pre>   - Mercredis</pre></a></li>
@@ -107,15 +105,16 @@ vm.component('myfooter', {
             <p>Nous appeler :<br> 04 76 51 12 51</p>
         </div>
         <div>
-            <p><img src="data/img/logo1.png" alt="logoMJC1"></p>
+            <h2>Horaires d'ouverture du secrétariat</h2>
+            <article>
+                <p>HORS VACANCES SCOLAIRES <br> -lundi 15h30-18h <br> -mardi 15h30-18h30 <br> -mercredi 09h30-12h 14h-18h <br> -jeudi 16h-18h30 <br> -vendredi 15h30-18h</p>
+                <p>PENDANT LES VACANCES SCOLAIRES <br> -lundi 09h30-12h 13h30-18h <br> -mardi 13h30-18h <br> -mercredi 09h30-12h 14h-18h <br> -jeudi 16h-18h <br> -vendredi 09h30-12h 13h30-17h30</p>
+            </article>
         </div>
         <div>
             <h2>Suivez nous</h2>
-            <p><img src="data/img/logo-facebook.png" alt="logo-facebook"></p>
-            <p><img src="data/img/logo-instagram.png" alt="logo-instagram"></p>
-        </div>
-        <div>
-            <p><img src="data/img/logo1.png" alt="logoMJC1"></p>
+            <p><a href="https://fr-fr.facebook.com/MJCAbbayeGrenoble38"><img src="data/img/logo-facebook.png" alt="logo-facebook"></a></p>
+            <p><a href="#"><img src="data/img/logo-instagram.png" alt="logo-facebook"></a></p>
         </div>
     </footer>
     `
