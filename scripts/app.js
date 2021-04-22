@@ -18,12 +18,12 @@ vm.component('myheader', {
             <li>
                 <a href="pourEnfants.html">Pour les enfants</a>
                 <ul class="sous">
-                    <li><a href="#">L'accueil de loisirs</a></li>
+                    <li><a href="pourEnfants.html#accueil-loisirs">L'accueil de loisirs</a></li>
                     <li><a href="#"><pre>   - Mercredis</pre></a></li>
                     <li><a href="#"><pre>   - Les vacances</pre></a></li>
                     <li><a href="sejours.html"><pre>   - Les séjours</pre></a></li>
-                    <li><a href="#">Le périscolaire</a></li>
-                    <li><a href="#">L'accompagnement à la scolarité</a></li>
+                    <li><a href="pourEnfants.html#periscolaire">Le périscolaire</a></li>
+                    <li><a href="pourEnfants.html#accompagnement-scolarite">L'accompagnement à la scolarité</a></li>
                 </ul>
             </li>
             <li>
