@@ -59,7 +59,7 @@ vm.component('myheader', {
                 </ul>
             </li>
             <li>
-                <a href="#">L'association MJC</a>
+                <a href="associationMJC.html">L'association MJC</a>
                 <ul class="sous">
                     <li><a href="data/docs/statuts.pdf" onclick="window.open(this.href); return false;">Les statuts</a></li>
                     <li><a href="data/docs/projet-associatif.pdf" onclick="window.open(this.href); return false;">Le projet associatif</a></li>
