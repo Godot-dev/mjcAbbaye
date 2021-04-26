@@ -1,0 +1,11 @@
+/* Ce fichier CSS est inclu dans toutes les pages sauf la page d'accueil qui a une mise en page un peu plus particulière */
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section h2 {
+    text-align: center;
+}
