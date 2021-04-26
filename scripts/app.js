@@ -85,7 +85,7 @@ vm.component('myheader', {
                 <ul class="sous">
                     <li><a href="data/docs/fiche-adhesion.pdf" onclick="window.open(this.href); return false;">Fiche adhésion</a></li>
                     <li><a href="data/docs/fiche-sanitaire.pdf" onclick="window.open(this.href); return false;">Fiche sanitaire pour les enfants et jeunes</a></li>
-                    <li><a href="data/docs/plaquette-annuelle.pdf" onclick="window.open(this.href); return false;">Plaquette anuelle</a></li>
+                    <li><a href="data/docs/plaquette-annuelle.pdf" onclick="window.open(this.href); return false;">Plaquette annuelle</a></li>
                 </ul>
             </li>
             
