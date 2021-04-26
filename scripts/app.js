@@ -91,6 +91,7 @@ vm.component('myheader', {
             
         </ul>
     </nav>
+    <hr>
 </header>
     `
 })
