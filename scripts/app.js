@@ -118,8 +118,14 @@ vm.component('myfooter', {
         </div>
         <div>
             <h2>Suivez nous</h2>
-            <p><a href="https://www.facebook.com/MJCAbbayeGrenoble38"><img src="data/img/logo-facebook.png" alt="logo-facebook"></a></p>
-            <p><a href="https://www.instagram.com/mjcabbayegrenoble/"><img src="data/img/logo-instagram.png" alt="logo-facebook"></a></p>
+            <p>
+                <a href="https://www.facebook.com/MJCAbbayeGrenoble38"><img src="data/img/logo-facebook.png" alt="logo-facebook"></a>
+                <a href="https://www.instagram.com/mjcabbayegrenoble/"><img src="data/img/logo-instagram.png" alt="logo-facebook"></a>
+            </p>
+            <h2>Ils nous soutiennent :</h2>
+            <p>
+                <img src="data/img/logos-financeurs.png" alt="logo-financeurs">
+            </p>
         </div>
     </footer>
     `
