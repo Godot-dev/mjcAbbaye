@@ -38,13 +38,11 @@ vm.component('myheader', {
             <li>
                 <a href="pourAdultes.html">Pour les adultes</a>
                 <ul class="sous">
-                    <li><a href="#">Activités de loisirs</a></li>
-                    <li><a href="#"><pre>   - Les ateliers à l'année</pre></a></li>
-                    <li><a href="#"><pre>   - Les stages</pre></a></li>
-                    <li><a href="#">Les ASL (ateliers socio-linguistiques)</a></li>
-                    <li><a href="#"><pre>   - Lien base de données</pre></a></li>
-                    <li><a href="#"><pre>   - Livre blanc ASL</pre></a></li>
-                    <li><a href="#"><pre>   - Les réalisations</pre></a></li>
+                    <li><a href="pourAdultesLoisirs.html">Activités de loisirs</a></li>
+                    <li><a href="pourAdultesASL.html">Les ASL (ateliers socio-linguistiques)</a></li>
+                    <li><a href="http://asl.mjcabbaye.fr"><pre>   - Lien base de données</pre></a></li>
+                    <li><a href="pourAdultesASL.html"><pre>   - Livre blanc ASL</pre></a></li>
+                    <li><a href="pourAdultesASL.html"><pre>   - Les réalisations</pre></a></li>
                 </ul>
             </li>
             <li>
