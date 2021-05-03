@@ -1,3 +1,2 @@
 # mjcAbbaye
-92.222.139.190
-2001:41d0:301:3::28
+Site disponible sur http://mjcabbaye.fr
