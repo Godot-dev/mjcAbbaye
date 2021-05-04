@@ -1,2 +1,2 @@
 # mjcAbbaye
-Site disponible sur http://mjcabbaye.fr
+Site disponible sur https://mjcabbaye.fr
