@@ -16,3 +16,29 @@ section h2 {
     height: auto;
     object-fit: cover;
 }
+
+.button-list{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+.button-list a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    background-color: darkgreen;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+    transition: padding .4s;
+}
+
+.button-list li{
+    margin: 1.5em;
+}
+
+.button-list a:hover{
+    padding: 1em 1.5em;
+}
