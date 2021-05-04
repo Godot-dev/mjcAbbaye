@@ -18,7 +18,7 @@ vm.component('myheader', {
             <li>
                 <a href="pourEnfants.html">Pour les enfants</a>
                 <ul class="sous">
-                    <li><a href="pourEnfants.html#accueil-loisirs">L'accueil de loisirs</a></li>
+                    <li><a href="pourEnfantsLoisirs.html">L'accueil de loisirs</a></li>
                     <li><a href="#"><pre>   - Mercredis</pre></a></li>
                     <li><a href="#"><pre>   - Les vacances</pre></a></li>
                     <li><a href="sejours.html"><pre>   - Les séjours</pre></a></li>

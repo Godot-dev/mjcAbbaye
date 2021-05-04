@@ -9,3 +9,10 @@ section {
 section h2 {
     text-align: center;
 }
+
+#ete img{
+    aspect-ratio: 1.41875;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
