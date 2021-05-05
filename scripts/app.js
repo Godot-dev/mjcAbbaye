@@ -116,7 +116,7 @@ vm.component('myfooter', {
         </div>
         <div>
             <h2>Suivez nous</h2>
-            <p>
+            <p class="reseaux-sociaux">
                 <a href="https://www.facebook.com/MJCAbbayeGrenoble38"><img src="data/img/logo-facebook.png" alt="logo-facebook"></a>
                 <a href="https://www.instagram.com/mjcabbayegrenoble/"><img src="data/img/logo-instagram.png" alt="logo-facebook"></a>
             </p>

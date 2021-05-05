@@ -32,7 +32,7 @@ section h2 {
     background-color: darkgreen;
     padding: 0.5em 1em;
     border-radius: 1em;
-    transition: padding .4s;
+    transition: font-size .4s;
 }
 
 .button-list li{
@@ -40,5 +40,5 @@ section h2 {
 }
 
 .button-list a:hover{
-    padding: 1em 1.5em;
+    font-size: 1.2em;
 }
