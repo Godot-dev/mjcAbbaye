@@ -73,11 +73,12 @@ footer article p{
     margin:0 10px ;
 }
 
-.reseaux-sociaux img{
+
+#reseaux-sociaux img{
     scale: 1;
     transition: scale .4s;
 }
 
-.reseaux-sociaux img:hover{
+#reseaux-sociaux img:hover{
     scale: 1.5;
 }
