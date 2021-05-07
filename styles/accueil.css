@@ -9,9 +9,10 @@ section {
 section p{
     width: 500px;
     text-align: center;
-    background-color: black;
+    background-color:#26272B;
     border-radius: 1em;
     color: white;
+    padding: 20px;
 }
 
 #map{

@@ -61,8 +61,9 @@ footer {
     text-align: center;
     flex-wrap: wrap;
     color: white;
-    background-color:darkslategrey;
+    background-color:#26272B;
     font-size:small;
+    align-items: center;
 }
 
 footer article {
@@ -77,6 +78,7 @@ footer article p{
 #reseaux-sociaux img{
     scale: 1;
     transition: scale .4s;
+    margin: 0 10px
 }
 
 #reseaux-sociaux img:hover{
