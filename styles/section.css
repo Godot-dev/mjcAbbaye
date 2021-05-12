@@ -10,11 +10,19 @@ section h2 {
     text-align: center;
 }
 
-#ete img{
-    aspect-ratio: 1.41875;
-    width: 100%;
+.img-resp{
+    width: 70%;
     height: auto;
     object-fit: cover;
+    margin: 0 15%;
+}
+
+@media all and (max-width: 980px){
+    .img-resp{
+        width: 90%;
+        margin: 0 5%;
+    }
+    
 }
 
 .button-list{
