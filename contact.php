@@ -14,11 +14,11 @@
         <!-- Insérer reste contenu ici-->
         <form method="post">
             <label for="nom">Nom</label>
-            <input type="text" name="nom" required>
+            <input type="text" name="nom" required> <br>
             <label for="email">Adresse Mail :</label>
-            <input type="email" name="email" required>
+            <input type="email" name="email" required> <br>
             <label for="message">Message :</label>
-            <input type="textarea" name="message">
+            <input type="textarea" name="message"> <br>
             <input type="submit">
         </form>
         <?php 
