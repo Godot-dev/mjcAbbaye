@@ -26,27 +26,20 @@ section h2 {
 }
 
 .button-list{
+    margin: 30px 0;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
     list-style-type: none;
-    margin-bottom: 30px;
     align-items: center;
 }
 
-.button-list a{
-    text-decoration: none;
-    font-weight: bold;
-    color: white;
-    background-color: darkgreen;
-    padding: 0.5em 1em;
-    border-radius: 1em;
-    transition: font-size .4s;
+.button-list img{
+    transition: scale .4s;
 }
 
-.button-list li{
-    margin: 1.5em;
-}
 
-.button-list a:hover{
-    font-size: 1.2em;
+
+.button-list img:hover{
+    scale: 1.1;
 }
