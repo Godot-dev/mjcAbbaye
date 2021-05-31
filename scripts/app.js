@@ -61,10 +61,10 @@ vm.component('myheader', {
                 <ul class="sous">
                     <li><a href="data/docs/statuts.pdf" onclick="window.open(this.href); return false;">Les statuts</a></li>
                     <li><a href="data/docs/projet-associatif.pdf" onclick="window.open(this.href); return false;">Le projet associatif</a></li>
-                    <li><a href="#" onclick="window.open(this.href); return false;">Le conseil d'administration</a></li>
+                    <li><a href="data/docs/conseil-administration.pdf" onclick="window.open(this.href); return false;">Le conseil d'administration</a></li>
                     <li><a href="data/docs/organigramme.pdf" onclick="window.open(this.href); return false;">Organigrame</a></li>
-                    <li><a href="#" onclick="window.open(this.href); return false;">Le projet enfance jeunesse</a></li>
-                    <li><a href="#" onclick="window.open(this.href); return false;">Règlement intérieur de la MJC</a></li>
+                    <li><a href="data/docs/projet-enfance-jeunesse.pdf" onclick="window.open(this.href); return false;">Le projet enfance jeunesse</a></li>
+                    <li><a href="data/docs/reglement-interieur.pdf" onclick="window.open(this.href); return false;">Règlement intérieur de la MJC</a></li>
                 </ul>
             </li>
             <li>
