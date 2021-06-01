@@ -29,10 +29,10 @@ vm.component('myheader', {
             <li>
                 <a href="pourJeunes.html">Pour les jeunes</a>
                 <ul class="sous">
-                    <li><a href="#">Les 11-13 ans</a></li>
-                    <li><a href="#">Les 14-17 ans</a></li>
-                    <li><a href="#">Les projets</a></li>
-                    <li><a href="#">Les séjours</a></li>
+                    <li><a href="pourJeunes11-13.html">Les 11-13 ans</a></li>
+                    <li><a href="pourJeunes14-17.html">Les 14-17 ans</a></li>
+                    <li><a href="pourJeunesProjets.html">Les projets</a></li>
+                    <li><a href="sejours.html">Les séjours</a></li>
                 </ul>
             </li>
             <li>
