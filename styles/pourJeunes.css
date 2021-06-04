@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+table{
+    width: 90%;
+    margin: 40px 5% 0 5%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+td, th{
+    border: 1px solid #333;
+    margin: 0;
+}
+
+#psco{
+    background-color: bisque;
+}
+#pvac{
+    background-color: lightgreen;
+}
+
+.age{
+    background-color: lightblue;
+}
+
+#th1{
+    border-bottom: none;
+}
+
+#th2{
+    border-top: none;
+}
+
+tbody tr td:first-child{
+    font-weight: bold;
+}

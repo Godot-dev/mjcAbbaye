@@ -2,17 +2,21 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#mini-logo{
+    float:left;
+    width: auto;
+}
+
 #menu {
     display: flex;
     flex-wrap: wrap;
     justify-content:center;
     list-style-type:none;
     text-align:center;
-    margin: auto;
 }
 
 #menu li {
-    padding: 10px;
+    padding: 8px;
 }
 
 #menu  li {
