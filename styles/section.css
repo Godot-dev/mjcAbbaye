@@ -31,11 +31,11 @@ h1, h2 {
     flex-wrap: wrap;
     justify-content: space-around;
     list-style-type: none;
-    align-items: center;
 }
 
 .button-list img{
     transition: scale .4s;
+    border: 1px solid red;
 }
 
 .button-list img:hover{

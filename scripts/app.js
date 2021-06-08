@@ -41,20 +41,11 @@ vm.component('myheader', {
                     <li><a href="pourAdultesLoisirs.html">Activités de loisirs</a></li>
                     <li><a href="pourAdultesASL.html">Les ASL (ateliers socio-linguistiques)</a></li>
                     <li><a href="http://asl.mjcabbaye.fr"><pre>   - Lien base de données</pre></a></li>
-                    <li><a href="pourAdultesASL.html"><pre>   - Livre blanc ASL</pre></a></li>
-                    <li><a href="pourAdultesASL.html"><pre>   - Les réalisations</pre></a></li>
+                    <li><a href="data/docs/asl-livre-blanc.pdf"><pre>   - Livre blanc ASL</pre></a></li>
                 </ul>
             </li>
             <li>
                 <a href="sejours.html">Les séjours</a>
-                <ul class="sous">
-                    <li><a href="sejours.html#hiver">Vacances d'hiver</a></li>
-                    <li><a href="sejours.html#ete">Vacances d'été</a></li>
-                    <li><a href="sejours.html#automne">Vacances d'automne</a></li>
-                    <li><a href="sejours.html#printemps">Vacances de printemps</a></li>
-                    <li><a href="#">Le projet enfance jeunesse</a></li>
-                    <li><a href="#">Autres périodes</a></li>
-                </ul>
             </li>
             <li>
                 <a href="sectionSportive.html">Section sportive</a>
@@ -73,11 +64,11 @@ vm.component('myheader', {
             <li>
                 <a href="vieDuQuartier.html">La vie du quartier</a>
                 <ul class="sous">
-                    <li><a href="#">L'urbanisme transitoire : les volets verts</a></li>
+                    <li><a href="data/docs/volets-verts.pdf">L'urbanisme transitoire : les volets verts</a></li>
                     <li><a href="#">La Maison des Habitants abbaye</a></li>
                     <li><a href="data/docs/breve.pdf"><pre>   - Breve en cours</pre></a></li>
                     <li><a href="data/docs/plaquette-mdh.pdf"><pre>   - Plaquette MDH</pre></a></li>
-                    <li><a href="#">Les associations et partenaires du quartier</a></li>
+                    <li><a href="data/docs/liste-associations.pdf">Les associations et partenaires du quartier</a></li>
                     <li><a href="#">Les événements</a></li>
                 </ul>
             </li>
