@@ -69,7 +69,7 @@ vm.component('myheader', {
                     <li><a href="data/docs/breve.pdf"><pre>   - Breve en cours</pre></a></li>
                     <li><a href="data/docs/plaquette-mdh.pdf"><pre>   - Plaquette MDH</pre></a></li>
                     <li><a href="data/docs/liste-associations.pdf">Les associations et partenaires du quartier</a></li>
-                    <li><a href="#">Les événements</a></li>
+                    <li><a href="evenements.html">Les événements</a></li>
                 </ul>
             </li>
             <li>
