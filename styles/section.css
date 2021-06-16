@@ -6,9 +6,13 @@ section {
     align-items: center;
 }
 
-h1, h2 {
+h1, h2, h3, p, ul{
     text-align: center;
+    margin-left: 10px ;
+    margin-right: 10px ;
 }
+
+
 
 .img-resp{
     width: 70%;
@@ -22,7 +26,6 @@ h1, h2 {
         width: 90%;
         margin: 0 5%;
     }
-    
 }
 
 .button-list{
@@ -35,7 +38,6 @@ h1, h2 {
 
 .button-list img{
     transition: scale .4s;
-    border: 1px solid red;
 }
 
 .button-list img:hover{
