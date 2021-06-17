@@ -16,6 +16,7 @@ table{
     width: 90%;
     margin: 40px 5% 0 5%;
     border-collapse: collapse;
+    text-align: center;
 }
 
 td, th{
@@ -25,6 +26,5 @@ td, th{
 }
 
 thead{
-    background-color: #333;
-    color: #fff;
+    background-color: orange;
 }

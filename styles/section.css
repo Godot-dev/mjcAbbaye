@@ -41,3 +41,8 @@ h1, h2, h3{
 .button-list img:hover{
     scale: 1.1;
 }
+
+p, .m{
+    margin-left: 5%;
+    margin-right: 5%;
+}
