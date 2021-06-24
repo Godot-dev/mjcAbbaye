@@ -23,8 +23,12 @@
     }
 }
 
-figure{
-    color: none;
+.img-resp{
+    width: 70%;
+    height: auto;
+    object-fit: cover;
+    margin: 1% 15%;
+    border-radius: 45px;
 }
 
 section {
