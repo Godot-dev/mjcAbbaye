@@ -1,0 +1,45 @@
+form{
+    text-align: left;
+    display: flex;
+    margin: 2% 5%;
+    padding: 5%;
+    border-radius: 90px;
+    width: auto;
+    background-color: aliceblue;
+}
+
+h1{
+    text-align: center;
+}
+
+form p{
+    font-size: 1em;
+}
+
+input{
+    border: 1px solid #999;
+    border-radius: 90px;
+}
+
+label{
+    font-weight: bold;
+}
+
+#submit{
+    font-weight: bold;
+    padding: 5px 10px;
+    background-color: goldenrod;
+    transition: 0.4s scale;
+}
+
+#submit:hover{
+    scale: 1.15;
+}
+
+.m{
+    width: 70%;
+}
+
+.t{
+    margin-left: 5%;
+}

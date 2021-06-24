@@ -96,3 +96,8 @@ footer article p{
 #reseaux-sociaux img:hover{
     scale: 1.5;
 }
+
+#lien-contact{
+    color: white;
+    font-style: italic;
+}

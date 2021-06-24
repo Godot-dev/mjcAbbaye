@@ -99,7 +99,7 @@ vm.component('myfooter', {
             <h2>Contact</h2>
             <p>1 Place de la commune de 1871<br>38100 Grenoble</p>
             <p>Nous appeler :<br> 04 76 51 12 51</p>
-            <p>Mail : secretariat@mjc-abbaye.org</p>
+            <p><a id="lien-contact" href="contact.php">Nous envoyer un mail</a></p>
         </div>
         <div>
             <h2>Horaires d'ouverture du secrétariat</h2>
