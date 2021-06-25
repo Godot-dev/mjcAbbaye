@@ -41,7 +41,7 @@ vm.component('myheader', {
                     <li><a href="pourAdultesLoisirs.html">Activités de loisirs</a></li>
                     <li><a href="pourAdultesASL.html">Les ASL (ateliers socio-linguistiques)</a></li>
                     <li><a href="http://asl.mjcabbaye.fr" onclick="window.open(this.href); return false;"><pre>   - Lien base de données</pre></a></li>
-                    <li><a href="data/docs/asl-livre-blanc.pdf" onclick="window.open(this.href); return false;"><pre>   - Livre blanc ASL</pre></a></li>
+                    <li><a href="pourAdultesASL.html#realisations"><pre>   - Réalisations</pre></a></li>
                 </ul>
             </li>
             <li>
