@@ -48,7 +48,7 @@ vm.component('myheader', {
                 <a href="sejours.html">Les séjours</a>
             </li>
             <li>
-                <a href="sectionSportive.html">Section sportive</a>
+                <a href="sportCulture.html">Sport / Culture</a>
             </li>
             <li>
                 <a href="associationMJC.html">L'association MJC</a>
